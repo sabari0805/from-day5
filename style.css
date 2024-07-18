@@ -1,0 +1,197 @@
+body{
+    border: 1px solid black;
+    height: 600px;
+    width: 515px;
+    margin: auto;
+    margin-top: 3%;
+    background: url("./rainy.jpg");
+    background-size: cover;
+}
+h1{
+    margin: 3%;
+}
+h4{
+    margin: 3%;
+    margin-top: -14px;
+    font-weight: 100;
+}
+#fn{
+    height: 27px;
+    width: 200px;
+    margin: 3%;
+    margin-top: 1%;
+    border: 2px solid grey;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+}
+#sn{
+    height: 27px;
+    width: 200px;
+    margin-top: 1%;
+    margin-left: -1%;
+    border: 2px solid grey;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+}
+#mn{
+    height: 30px;
+    width: 420px;
+    margin: 3%;
+    margin-top: -1%;
+    border: 2px solid grey;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+}
+#np{
+    height: 30px;
+    width: 420px;
+    margin: 3%;
+    margin-top: -1%;
+    border: 2px solid grey;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+}
+
+#sri{
+    display: flex;
+    margin-top: -2.5%;
+    margin-top: -11px;
+
+}
+#fe{
+    border: 2px solid grey;
+    height: 30px;
+    width: 125px;
+    margin-left: 3%;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+#ma{
+    border: 2px solid grey;
+    height: 30px;
+    width: 125px;
+    margin-left: 3%;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+#cu{
+    border: 2px solid grey;
+    height: 30px;
+    width: 125px;
+    margin-left: 3%;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+#gen{
+    margin: 3%;
+    margin-top: -2%;
+}
+#dod{
+    margin: 3%;
+    height: 40px;
+    width: 420px;
+    border: 2px solid grey;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    margin-top: 1%;
+}
+#do{
+    padding-left: 20px;
+}
+p{
+    margin: 3%;
+   
+}
+#p1{
+    text-align: justify;
+}
+#btn{
+    background: chartreuse;
+    color: aliceblue;
+    margin-left: 30%;
+    font-weight: bolder;
+    font-size: larger;
+    margin-top: 5%;
+    height: 40px;
+    width: 200px;
+    border: 2px solid grey;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    
+}
+span:hover{
+    text-decoration: underline;
+
+}
+span{
+    color: rgb(74, 74, 184);
+}
+#main{
+    background: rgba(225,225,225,0.5);
+    height: 600px;
+    margin-top: -3%;
+}
+#ss{
+    margin: 3%;
+    
+}
+#dob{
+    margin: 3%;
+    margin-top: 1px;
+    
+}
+#dod_date{
+    height: 35px;
+    width: 125px;
+    border: 2px solid grey;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+
+}
+#dob-month{
+    height: 35px;
+    width: 125px;
+    border: 2px solid grey;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    margin-left: 3%;
+    margin-right: 15px;
+}
+#dob-year{
+    height: 35px;
+    width: 125px;
+    border: 2px solid grey;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+}
